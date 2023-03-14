@@ -18,11 +18,9 @@ Contatos:
 <br>
 <br>
 Dados do GitHub:
-<br>
-<br>
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloAK&show_icons=true&theme=tokyonight)
-<br>
-<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAK)](https://github.com/anuraghazra/github-readme-stats)
 
 
