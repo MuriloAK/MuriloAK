@@ -1,6 +1,6 @@
 ### Oi, Prazer.
 
-Eu sou o Murilo, Sou Programador Front End, atualmente estou aprendendo e criando projetos com: 
+Eu sou o Murilo, Sou Desenvolvedor Web, atualmente estou aprendendo e criando projetos com: 
 <br>
 <br>
 
